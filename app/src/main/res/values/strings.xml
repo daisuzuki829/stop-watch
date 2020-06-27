@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="00_00_00">00:00:00</string>
+</resources>
